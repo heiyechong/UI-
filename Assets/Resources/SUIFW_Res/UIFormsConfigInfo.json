@@ -1,0 +1,30 @@
+{
+  "ConfigInfo": [
+    { "key": "本配置文件说明" },
+    {
+      "key": "LoginUIForm",
+      "value": "UIPrefabs\\LoginUIForm"
+    },
+    {
+      "key": "SelectHeroUIForm",
+      "value": "UIPrefabs\\SelectHeroUIForm"
+    },
+    {
+      "key": "MainCityUIForm",
+      "value": "UIPrefabs\\MainCityUIForm"
+    },
+    {
+      "key": "HeroInfoUIForm",
+      "value": "UIPrefabs\\HeroInfoUIForm"
+    },
+    {
+      "key": "MarketUIForm",
+      "value": "UIPrefabs\\MarketUIForm"
+    },
+    {
+      "key": "PropDetailUIForm",
+      "value": "UIPrefabs\\PropDetailUIForm"
+    }
+
+  ]
+}

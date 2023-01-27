@@ -1,0 +1,58 @@
+﻿{
+  "ConfigInfo": [
+    {
+      "key": "LogonSystem",
+      "value": "LogonSys"
+    },
+
+    {
+      "key": "Logon",
+      "value": "Logon"
+    },
+
+    {
+      "key": "EnterGame",
+      "value": "EnterGame"
+    },
+
+    {
+      "key": "MarketSys",
+      "value": "MarketSys"
+    },
+
+    {
+      "key": "Return",
+      "value": "Return"
+    },
+
+    {
+      "key": "Purchase",
+      "value": "Purchase"
+    },
+
+    {
+      "key": "Confirm",
+      "value": "OK"
+    },
+
+    {
+      "key": "ConfirmWindow",
+      "value": "ConfirmWindow"
+    },
+
+    {
+      "key": "ClozeDetailInfo",
+      "value": "ClothDetailInfo："
+    },
+
+    {
+      "key": "shoeDetailInfo",
+      "value": "shoeDetailInfo:"
+    },
+
+    {
+      "key": "Cancle",
+      "value": "Cancle"
+    }
+  ]
+}
